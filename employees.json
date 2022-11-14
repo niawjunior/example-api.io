@@ -1,4 +1,6 @@
-[
+{
+  "employeePositions":
+  [
   {
     "name": "Accountant",
     "value": "Accountant"
@@ -19,4 +21,5 @@
     "name": "Writer",
     "value": "Writer"
   }
-]
+  ]
+}
